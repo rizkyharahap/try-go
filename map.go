@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// create variable with type
 	// var person map[string]string = map[string]string{}
 	// person["name"] = "Rizki"
 	// person["address"] = "Kendal"
